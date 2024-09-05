@@ -1,0 +1,2 @@
+NOTE: update your .sequelizerc file to match the new config file.
+"config": path.resolve('./config', 'config.js'),
